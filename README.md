@@ -1,8 +1,15 @@
+
+---
+
+### 2️⃣ Neroxa-NetworkBoost (`README.md` mein yeh poora daal de)
+```markdown
 # Neroxa-NetworkBoost
 
-A lightweight network socket optimization utility designed to minimize ping latency and streamline connection handshakes.
+Lightweight network socket optimization utility designed to minimize ping latency.
 
-## Features
-- Socket parameter tuning.
-- Ultra-low latency optimization.
-- Seamless gateway handshake.
+## 🚀 Quick Start
+
+```python
+from network_booster import NeroxaNetworkBoost
+
+NeroxaNetworkBoost.optimize_sockets
